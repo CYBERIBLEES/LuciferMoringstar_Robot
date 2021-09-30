@@ -52,7 +52,7 @@ async def start(bot, message):
                                 InlineKeyboardButton("🔰 Join Updates Channel 🔰", url=invite_link.invite_link)
                             ],
                             [
-                                InlineKeyboardButton("🔄 Try Again", callback_data=f"checksub#{file_id}")
+                                InlineKeyboardButton("🔄 Try Again 🔄", callback_data=f"checksub#{file_id}")
                             ]
                         ]
                     ),
@@ -85,7 +85,7 @@ async def start(bot, message):
                 buttons = [
       
                     [
-                        InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat='')
+                        InlineKeyboardButton('↩️ SEARCH AGAIN ↪️', switch_inline_query_current_chat='')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -104,7 +104,7 @@ async def start(bot, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("📢 Join Updates Channel 📢", url=invite_link.invite_link)
+                        InlineKeyboardButton("🔰 Join Updates Channel 🔰", url=invite_link.invite_link)
                     ]
                 ]
             )
@@ -331,8 +331,7 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('More Botz', url='https://t.me/MT_Botz'),
-            InlineKeyboardButton('Video', url=f'{TUTORIAL}')
+            InlineKeyboardButton('JOIN REQ GROUP', url='https://t.me/ci_movies_req')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
