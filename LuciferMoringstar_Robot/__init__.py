@@ -36,6 +36,6 @@ ABOUT = """
     
 ➥ Creator : [CI MOVIES](t.me/ci_movies_req)
 
-➥ Disclaimer : This service is completely free. So do not try to abuse it 🚀🌞
+➥ Disclaimer : **This service is completely free. So do not try to abuse it 🚀🌞**
 
 """
