@@ -36,8 +36,6 @@ ABOUT = """
     
 ➥ Creator : [CI MOVIES](t.me/ci_movies_req)
 
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Read : This service is completely free. So do not try to abuse it 🚀🌞
 
 """
