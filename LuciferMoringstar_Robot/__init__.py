@@ -13,19 +13,19 @@ from .Channel import (
 HELP = """
 Basic Commads
 
-/start :- check am Alive
+🚀 /start :- check am Alive
 
-Bot Owner Only
-/broadcast Replay Any Message or Media (admin)
-/stats user Status (admin)
-/ban_user  click ban_user more info (admin)
-/unban_user click unban_user more info (admin)
-/banned_users Banned User Details (admin)
-/total How Many Files Added In Database (admin)
-/logger  Get Logs (admin)
-/delete Delete File From Database (admin)
+🔴 Bot Owner Only
+🔰 /broadcast Replay Any Message or Media
+🔰 /stats user Status
+🔰 /ban_user  click ban_user more info
+🔰 /unban_user click unban_user more info
+🔰 /banned_users Banned User Details
+🔰 /total How Many Files Added In Database
+🔰 /logger  Get Logs
+🔰 /delete Delete File From Database
 
-[JOIN REQUEST GROUP](https://t.me/ci_movies_req)
+[🌞 JOIN REQUEST GROUP🌞 ](https://t.me/ci_movies_req)
 
 CI MOVIES
 """
