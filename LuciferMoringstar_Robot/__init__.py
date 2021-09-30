@@ -16,6 +16,7 @@ Basic Commads
 🚀 /start :- check am Alive
 
 🔴 Bot Owner Only
+
 🔰 /broadcast Replay Any Message or Media
 🔰 /stats user Status
 🔰 /ban_user  click ban_user more info
@@ -25,9 +26,9 @@ Basic Commads
 🔰 /logger  Get Logs
 🔰 /delete Delete File From Database
 
-[🌞 JOIN REQUEST GROUP🌞 ](https://t.me/ci_movies_req)
+[🌞 JOIN REQUEST GROUP 🌞](https://t.me/ci_movies_req)
 
-CI MOVIES
+[CI MOVIES](t.me/ci_movies_req)
 """
 
 ABOUT = """
