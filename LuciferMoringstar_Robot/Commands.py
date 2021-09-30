@@ -119,7 +119,8 @@ async def start(bot, message):
                 InlineKeyboardButton("Search Here", switch_inline_query_current_chat=''),
                 InlineKeyboardButton("Join Group", url="https://t.me/ci_movies_req")
                 ],[
-                InlineKeyboardButton("Help", callback_data="help")
+                InlineKeyboardButton("Help", callback_data="help"),
+                InlineKeyboardButton("Help", callback_data="about")
                 ]]
             )
         )
