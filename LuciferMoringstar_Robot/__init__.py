@@ -16,28 +16,27 @@ Basic Commads
 /start :- check am Alive
 
 Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+/broadcast Replay Any Message or Media (admin)
+/stats user Status (admin)
+/ban_user  click ban_user more info (admin)
+/unban_user click unban_user more info (admin)
+/banned_users Banned User Details (admin)
+/total How Many Files Added In Database (admin)
+/logger  Get Logs (admin)
+/delete Delete File From Database (admin)
 
-[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
+[JOIN REQUEST GROUP](https://t.me/ci_movies_req)
 
-@Mo_Tech_YT
+CI MOVIES
 """
 
 ABOUT = """
-➥ Name :  Auto Filter With IMDB
+➥ Name :  CI INLINE PRO V1
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [CI MOVIES](t.me/ci_movies_req)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
 """
